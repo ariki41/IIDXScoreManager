@@ -525,7 +525,7 @@
   "Multiple Months": "複数月",
   "Myanmar": "ミャンマー",
   "N/A": "非該当",
-  "Name": "氏名",
+  "Name": "ユーザー名",
   "Namibia": "ナミビア",
   "Nauru": "ナウル",
   "Nebraska": "ネブラスカ州",
@@ -1122,5 +1122,6 @@
   "Zimbabwe": "ジンバブエ",
   "ZIP / Postal Code": "郵便番号",
   "Zip / Postal Code": "郵便番号",
-  "Åland Islands": "オーランド諸島"
+  "Åland Islands": "オーランド諸島",
+  "UserID": "ユーザーID"
 }
